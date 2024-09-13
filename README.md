@@ -2,4 +2,4 @@
 
 fixes to app props
 
-maven spring mysql
+maven spring mysql jpa
